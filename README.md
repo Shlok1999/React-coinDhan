@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots: 
+### Filtering by name of coin
+
+![Screenshot from 2022-03-08 09-19-04](https://user-images.githubusercontent.com/47269110/157162753-a2df2d69-8b92-4f16-b88e-6fafc7131e8a.png)
+
+### Sorting by min order size
+![Screenshot from 2022-03-08 09-19-17](https://user-images.githubusercontent.com/47269110/157162801-fd3c15e9-a56b-4743-acaf-33ba0f42953b.png)
+![Screenshot from 2022-03-08 09-19-20](https://user-images.githubusercontent.com/47269110/157162806-0bb6c7e6-0c1f-4276-ac3c-5bbfb06f6a95.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
